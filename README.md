@@ -6,4 +6,4 @@
 
 #### Projects
 
-1. Built basic website with django, html, css, javascript, bootstrap(mini-project)
+1. Built basic website with django, html, css, javascript, bootstrap(mini-project)(https://github.com/MaqOwais/django_blog_stuff)
